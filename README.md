@@ -1,3 +1,3 @@
 # Filmpire
 
-![App Screenshot](src/assets/images/Filmpire.jpg)
+![App Screenshot](src/assets/images/KingMov-hdev_7.png)
