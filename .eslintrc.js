@@ -39,3 +39,4 @@ module.exports = {
     'jsx-a11y/anchor-is-valid': ['error', { components: ['Link'], specialLink: ['to', 'hrefLeft', 'hrefRight'], aspects: ['noHref', 'invalidHref', 'preferButton'] }],
   },
 };
+// Very important file that fixes early problems
