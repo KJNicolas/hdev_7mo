@@ -1,4 +1,7 @@
 # KingMov
+
+A completely Responsive Movie Tracking Web application that includes user authentication, dark mode, the options to sort movies or tv show by categories or genres, read into actor details, add or remove a movie to favorites or watchlist ect
+
 https://kingmov.netlify.app/
 
 
